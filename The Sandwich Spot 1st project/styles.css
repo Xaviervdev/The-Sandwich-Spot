@@ -1,0 +1,94 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.established{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-style: serif;
+}
+footer{
+    text-align: center;
+}
+.style{
+    text-align: left;
+    width: 40%; 
+    margin: 0%;   
+}
+.price{
+    text-align: right;
+    width: 100%;
+    margin-top: -20px;
+    font-size: 20px;
+    padding-top: 0px;
+}
+.style, .drink{
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  padding-top: 0px;
+}
+.meal{
+    text-align: center;
+}
+
+.menu{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    background-color: lightgrey;
+    opacity: 80%;
+
+    
+}
+p{
+    font-weight: bold;
+}
+body{
+    background-image: url(https://i.etsystatic.com/18325098/r/il/1e941f/1735519280/il_794xN.1735519280_3ziu.jpg);
+    padding: 20px;
+    
+}
+.logo1{
+   width: 100px; 
+}
+.logo2{
+    width: 100px;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+}
+.insta{
+    width: 10%;
+    height: auto;
+}
+.social{
+    font-size: 20px;
+}
+.line{
+    height: 2px;
+    background-color: darkred;
+    border-color: darkred;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: purple;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: blue;
+}
